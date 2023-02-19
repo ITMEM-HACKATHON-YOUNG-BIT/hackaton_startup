@@ -60,7 +60,7 @@ sudo docker-compose up --build --remove-orphans
 РАЗРАБОТЧИКИ
 
 <h4>Жимоедов Денис product manager https://t.me/denchicez </h4>
-<h4>Пономоренко Илья bot developer https://t.me/noisegain </h4>
+<h4>Пономаренко Илья bot developer https://t.me/noisegain </h4>
 <h4>Трофимов Максим backend developer https://t.me/trofik00777 </h4>
 <h4>Мясников Алексей frontend developer https://t.me/alekmia </h4>
 
