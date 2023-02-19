@@ -46,8 +46,8 @@ cd backend
 python3 run.py
 cd ..
 git clone https://github.com/ITMEM-HACKATHON-YOUNG-BIT/TgBot
-cd tgBot
-java -jar {jar file from build/libs}
+cd tgBot/build/libs
+java -jar {jar file} &
 cd ..
 git clone https://github.com/ITMEM-HACKATHON-YOUNG-BIT/ParserModule
 cd ParserModule
