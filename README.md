@@ -21,7 +21,7 @@
  </ul>
 <h4>Демо</h4>
 <p>Инструкция для запуска здесь</p>
-<p>https://github.com/ITMEM-HACKATHON-YOUNG-BIT/frontend</p>
+<p>https://github.com/ITMEM-HACKATHON-YOUNG-BIT/extension</p>
 
 
 
